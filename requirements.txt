@@ -1,0 +1,4 @@
+fastmcp>=2.0
+httpx>=0.27
+garminconnect>=0.2.25
+curl_cffi>=0.7
